@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SavvasEft
+- 👋 Hi, I’m Savvas Eftychis
 - 👀 I’m interested in data analytics and data science.
 - 🌱 I’m currently working with Python, R, SQL and Tableau.
 <!---
